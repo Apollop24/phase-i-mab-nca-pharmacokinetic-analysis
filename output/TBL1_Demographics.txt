@@ -1,0 +1,14 @@
+================================================================================
+TABLE 1. DEMOGRAPHIC AND BASELINE CHARACTERISTICS (Safety Population, N=22)
+Study: ABC-mAb-101 | 10 mg/kg SC Single Dose | ABCmAb Monoclonal Antibody
+================================================================================
+
+Parameter                            Male (n=12) Female (n=10) Total (N=22)
+----------------------------------- ------------ ------------ ------------
+Age (years)                           41.6 (9.0)   37.3 (7.0)   39.5 (8.2)
+  Median [Range]                      41 [28-55]   36 [27-48]   39 [27-55]
+Weight (kg)                           78.7 (5.4)   63.7 (4.1)   71.2 (9.0)
+Dose (mg)                               787 (54)     637 (41)     712 (90)
+
+Note: Values are mean (SD) unless otherwise stated.
+================================================================================
