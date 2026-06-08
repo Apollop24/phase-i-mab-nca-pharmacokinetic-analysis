@@ -1,0 +1,109 @@
+================================================================================
+STATISTICAL SECTION — PHARMACOKINETIC ANALYSIS
+Study ABC-mAb-101 | ABCmAb Monoclonal Antibody | Phase I Single-Dose PK
+Prepared for: Clinical Study Report (CSR)
+================================================================================
+
+1. METHODS
+
+  1.1 Study Design
+
+  This was an open-label, single-dose pharmacokinetic study of ABCmAb
+  administered subcutaneously at 10 mg/kg in 22 healthy adult volunteers.
+  Nominal blood sampling occurred at 0, 24, 48, 72, 96, 168, 336, 504, 672,
+  840, and 1008 hours post-dose.
+
+  1.2 Analyte and Bioanalytical Method
+
+  The primary analyte was the ABCmAb parent compound measured in plasma.
+  An exploratory metabolite was assessed in parallel (results not presented
+  here). Concentrations are reported in µg/mL.
+
+  1.3 NCA Methodology
+
+  Non-compartmental analysis was conducted using the linear-up/log-down
+  (linear-log) trapezoidal rule, consistent with FDA and EMA guidance.
+  Pre-dose BLQ values were set to zero (M1 rule). Post-dose BLQ values
+  were set to zero for AUC calculation.
+
+  The terminal elimination rate constant (kel) was estimated by log-linear
+  regression over the last four quantifiable time points per participant.
+  A minimum adjusted R² of 0.90 was required for kel estimation. AUC0-inf
+  was calculated as AUC0-t + Clast/kel.
+
+  All parameters were calculated at the individual level prior to summary.
+  Descriptive statistics include N, arithmetic mean, standard deviation (SD),
+  coefficient of variation (CV%), median, minimum, and maximum.
+  tmax is presented as median [range] per convention.
+
+2. RESULTS
+
+  2.1 Participant Disposition
+
+  Twenty-two participants were enrolled, dosed, and included in the PK
+  analysis set: 12 male and 10 female. Mean age was 39.3 years (range:
+  27–55) and mean body weight was 71.4 kg (range: 56–88).
+
+  2.2 Plasma Concentration-Time Profiles
+
+  Following subcutaneous administration of ABCmAb at 10 mg/kg, plasma
+  concentrations were below the limit of quantification at time zero and
+  increased progressively across all participants, reaching a peak at a
+  median tmax of 168 hours (range: 168–168 h) post-dose.
+  Concentrations declined in a mono-exponential manner over the
+  elimination phase. Individual and mean (±SD) concentration-time profiles
+  are presented in Figures 1–4.
+
+  2.3 Primary PK Parameters
+
+  The mean (SD) Cmax was 52.58 (5.75) µg/mL (CV% 10.9%).
+  Mean (SD) AUC0-t was 31197.0 (4100.0) h·µg/mL (CV% 13.1%).
+  Mean (SD) AUC0-inf was 34575.7 (5135.1) h·µg/mL (CV% 14.9%).
+  Mean AUC extrapolation was 9.55% (range: 6.66–12.27%), indicating
+  adequate sampling duration for AUC0-inf estimation.
+
+  2.4 Secondary PK Parameters
+
+  Mean (SD) terminal half-life (t½) was 257.1 (19.2) hours, consistent
+  with the extended circulation expected for a monoclonal antibody.
+  Mean (SD) MRT was 492.0 (23.4) hours.
+  Mean (SD) apparent clearance was 0.0207 (0.0006) mL/h.
+  All kel estimates met the minimum adjusted R² threshold of 0.90
+  (mean adj. R² = 0.9859, range: 0.9741–0.9923).
+
+  2.5 Sex Differences
+
+  Mean Cmax in male participants was 57.37 µg/mL vs 47.78 µg/mL in female
+  participants. Mean AUC0-t was 34625.1 vs 27768.9 h·µg/mL respectively.
+  Differences reflect weight-based dosing (10 mg/kg); dose-normalised
+  parameters show reduced between-sex variability (see Table 3).
+
+3. CONCLUSIONS
+
+  ABCmAb demonstrated predictable subcutaneous absorption with consistent
+  individual profiles across all 22 participants. Between-subject variability
+  in Cmax and AUC0-t (CV% 11% and 13% respectively) was within the
+  range expected for a monoclonal antibody at this dose level. Terminal
+  half-life estimates were consistent with the known FcRn-mediated recycling
+  mechanism of IgG-class molecules. Full parameter tabulations are provided
+  in Tables 2 and 3; individual data are in Listings 1 and 2.
+
+================================================================================
+DELIVERABLES PRODUCED
+================================================================================
+  Tables:
+    TBL1_Demographics.txt          — Table 1: Demographic and baseline
+    TBL2_Individual_PK_Parameters  — Table 2: Individual NCA parameters
+    TBL3_Summary_PK_Parameters     — Table 3: Descriptive statistics
+  Listings:
+    LST1_Individual_Concentrations — Listing 1: Individual concentrations
+    LST2_Individual_PK_Listing     — Listing 2: Full individual PK parameters
+    LST3_Sampling_Deviations       — Listing 3: Time deviation flags
+  Figures:
+    FIG1_Individual_Linear         — Figure 1: Individual profiles (linear)
+    FIG2_Individual_SemiLog        — Figure 2: Individual profiles (semi-log)
+    FIG3_Mean_Linear               — Figure 3: Mean±SD profiles (linear)
+    FIG4_Mean_SemiLog              — Figure 4: Mean±SD profiles (semi-log)
+    FIG5_PK_Distributions          — Figure 5: Cmax/AUC/t½ distributions
+    FIG6_PK_Boxplots               — Figure 6: Parameter boxplots by sex
+================================================================================
