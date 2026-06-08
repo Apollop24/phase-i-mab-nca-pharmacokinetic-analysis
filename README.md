@@ -181,7 +181,7 @@ Between-subject variability in Cmax and AUC0-t was 10.9% and 13.1% respectively,
 
 ## Author
 
-**Philip Otieno**
+**Kibet Philip**
 Statistician and Data Analyst
 Available via Upwork for clinical PK/PD statistical programming, NCA, and CSR support.
 
