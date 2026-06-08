@@ -1,0 +1,269 @@
+================================================================================
+LISTING 2. INDIVIDUAL PHARMACOKINETIC PARAMETERS — ABCmAb (N=22)
+Study: ABC-mAb-101 | NCA Method: Linear-Log Trapezoidal | R² criterion: ≥0.90
+================================================================================
+
+Subject: SUBJ-01     Sex: Male     Age: 28 yr  Weight: 72.0 kg  Dose: 720 mg
+  Cmax      =  52.100 µg/mL     Cmax/D  = 0.07236 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 31446.3 h·µg/mL   AUC0-t/D= 43.6754 h·µg/mL/mg
+  AUC0-inf  = 35092.6 h·µg/mL   %Extrap = 10.39%
+  kel       = 0.00259 1/h        Adj.R²  = 0.9875  [interval: 504–1008 h]
+  t1/2      =   267.7 h
+  MRT       =   504.9 h
+  Vz        =     7.9 mL
+  CL        =  0.0205 mL/h
+  Clast     =   9.440 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
+Subject: SUBJ-02     Sex: Female   Age: 34 yr  Weight: 65.0 kg  Dose: 650 mg
+  Cmax      =  49.330 µg/mL     Cmax/D  = 0.07589 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 28959.0 h·µg/mL   AUC0-t/D= 44.5524 h·µg/mL/mg
+  AUC0-inf  = 31900.7 h·µg/mL   %Extrap = 9.22%
+  kel       = 0.00274 1/h        Adj.R²  = 0.9849  [interval: 504–1008 h]
+  t1/2      =   253.3 h
+  MRT       =   487.4 h
+  Vz        =     7.5 mL
+  CL        =  0.0204 mL/h
+  Clast     =   8.050 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
+Subject: SUBJ-03     Sex: Male     Age: 41 yr  Weight: 80.0 kg  Dose: 800 mg
+  Cmax      =  57.440 µg/mL     Cmax/D  = 0.07180 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 34639.4 h·µg/mL   AUC0-t/D= 43.2992 h·µg/mL/mg
+  AUC0-inf  = 38950.4 h·µg/mL   %Extrap = 11.07%
+  kel       = 0.00251 1/h        Adj.R²  = 0.9906  [interval: 504–1008 h]
+  t1/2      =   276.2 h
+  MRT       =   513.9 h
+  Vz        =     8.2 mL
+  CL        =  0.0205 mL/h
+  Clast     =  10.820 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
+Subject: SUBJ-04     Sex: Female   Age: 29 yr  Weight: 59.0 kg  Dose: 590 mg
+  Cmax      =  45.620 µg/mL     Cmax/D  = 0.07732 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 26137.0 h·µg/mL   AUC0-t/D= 44.3000 h·µg/mL/mg
+  AUC0-inf  = 28186.3 h·µg/mL   %Extrap = 7.27%
+  kel       = 0.00303 1/h        Adj.R²  = 0.9811  [interval: 504–1008 h]
+  t1/2      =   228.7 h
+  MRT       =   457.6 h
+  Vz        =     6.9 mL
+  CL        =  0.0209 mL/h
+  Clast     =   6.210 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
+Subject: SUBJ-05     Sex: Male     Age: 52 yr  Weight: 85.0 kg  Dose: 850 mg
+  Cmax      =  61.180 µg/mL     Cmax/D  = 0.07198 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 37410.7 h·µg/mL   AUC0-t/D= 44.0126 h·µg/mL/mg
+  AUC0-inf  = 42353.7 h·µg/mL   %Extrap = 11.67%
+  kel       = 0.00245 1/h        Adj.R²  = 0.9897  [interval: 504–1008 h]
+  t1/2      =   283.2 h
+  MRT       =   524.1 h
+  Vz        =     8.2 mL
+  CL        =  0.0201 mL/h
+  Clast     =  12.100 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
+Subject: SUBJ-06     Sex: Female   Age: 38 yr  Weight: 68.0 kg  Dose: 680 mg
+  Cmax      =  51.070 µg/mL     Cmax/D  = 0.07510 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 30173.5 h·µg/mL   AUC0-t/D= 44.3727 h·µg/mL/mg
+  AUC0-inf  = 33342.5 h·µg/mL   %Extrap = 9.50%
+  kel       = 0.00270 1/h        Adj.R²  = 0.9857  [interval: 504–1008 h]
+  t1/2      =   256.9 h
+  MRT       =   491.3 h
+  Vz        =     7.6 mL
+  CL        =  0.0204 mL/h
+  Clast     =   8.550 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
+Subject: SUBJ-07     Sex: Male     Age: 45 yr  Weight: 77.0 kg  Dose: 770 mg
+  Cmax      =  55.770 µg/mL     Cmax/D  = 0.07243 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 33433.9 h·µg/mL   AUC0-t/D= 43.4206 h·µg/mL/mg
+  AUC0-inf  = 37285.1 h·µg/mL   %Extrap = 10.33%
+  kel       = 0.00260 1/h        Adj.R²  = 0.9878  [interval: 504–1008 h]
+  t1/2      =   266.9 h
+  MRT       =   503.8 h
+  Vz        =     8.0 mL
+  CL        =  0.0207 mL/h
+  Clast     =  10.000 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
+Subject: SUBJ-08     Sex: Female   Age: 31 yr  Weight: 62.0 kg  Dose: 620 mg
+  Cmax      =  47.440 µg/mL     Cmax/D  = 0.07652 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 27521.3 h·µg/mL   AUC0-t/D= 44.3891 h·µg/mL/mg
+  AUC0-inf  = 29994.4 h·µg/mL   %Extrap = 8.25%
+  kel       = 0.00287 1/h        Adj.R²  = 0.9831  [interval: 504–1008 h]
+  t1/2      =   241.1 h
+  MRT       =   472.3 h
+  Vz        =     7.2 mL
+  CL        =  0.0207 mL/h
+  Clast     =   7.110 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
+Subject: SUBJ-09     Sex: Male     Age: 37 yr  Weight: 74.0 kg  Dose: 740 mg
+  Cmax      =  54.330 µg/mL     Cmax/D  = 0.07342 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 32270.3 h·µg/mL   AUC0-t/D= 43.6085 h·µg/mL/mg
+  AUC0-inf  = 35707.2 h·µg/mL   %Extrap = 9.63%
+  kel       = 0.00268 1/h        Adj.R²  = 0.9859  [interval: 504–1008 h]
+  t1/2      =   258.4 h
+  MRT       =   493.1 h
+  Vz        =     7.7 mL
+  CL        =  0.0207 mL/h
+  Clast     =   9.220 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
+Subject: SUBJ-10     Sex: Female   Age: 44 yr  Weight: 70.0 kg  Dose: 700 mg
+  Cmax      =  50.000 µg/mL     Cmax/D  = 0.07143 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 29444.1 h·µg/mL   AUC0-t/D= 42.0630 h·µg/mL/mg
+  AUC0-inf  = 32388.9 h·µg/mL   %Extrap = 9.09%
+  kel       = 0.00275 1/h        Adj.R²  = 0.9832  [interval: 504–1008 h]
+  t1/2      =   251.7 h
+  MRT       =   485.8 h
+  Vz        =     7.8 mL
+  CL        =  0.0216 mL/h
+  Clast     =   8.110 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
+Subject: SUBJ-11     Sex: Male     Age: 55 yr  Weight: 88.0 kg  Dose: 880 mg
+  Cmax      =  63.550 µg/mL     Cmax/D  = 0.07222 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 38914.3 h·µg/mL   AUC0-t/D= 44.2208 h·µg/mL/mg
+  AUC0-inf  = 44355.0 h·µg/mL   %Extrap = 12.27%
+  kel       = 0.00239 1/h        Adj.R²  = 0.9923  [interval: 504–1008 h]
+  t1/2      =   290.1 h
+  MRT       =   532.4 h
+  Vz        =     8.3 mL
+  CL        =  0.0198 mL/h
+  Clast     =  13.000 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
+Subject: SUBJ-12     Sex: Female   Age: 27 yr  Weight: 56.0 kg  Dose: 560 mg
+  Cmax      =  43.770 µg/mL     Cmax/D  = 0.07816 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 24780.6 h·µg/mL   AUC0-t/D= 44.2510 h·µg/mL/mg
+  AUC0-inf  = 26548.5 h·µg/mL   %Extrap = 6.66%
+  kel       = 0.00314 1/h        Adj.R²  = 0.9797  [interval: 504–1008 h]
+  t1/2      =   220.8 h
+  MRT       =   447.6 h
+  Vz        =     6.7 mL
+  CL        =  0.0211 mL/h
+  Clast     =   5.550 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
+Subject: SUBJ-13     Sex: Male     Age: 33 yr  Weight: 78.0 kg  Dose: 780 mg
+  Cmax      =  58.770 µg/mL     Cmax/D  = 0.07535 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 35509.9 h·µg/mL   AUC0-t/D= 45.5255 h·µg/mL/mg
+  AUC0-inf  = 39997.7 h·µg/mL   %Extrap = 11.22%
+  kel       = 0.00250 1/h        Adj.R²  = 0.9911  [interval: 504–1008 h]
+  t1/2      =   277.2 h
+  MRT       =   516.4 h
+  Vz        =     7.8 mL
+  CL        =  0.0195 mL/h
+  Clast     =  11.220 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
+Subject: SUBJ-14     Sex: Female   Age: 48 yr  Weight: 66.0 kg  Dose: 660 mg
+  Cmax      =  48.000 µg/mL     Cmax/D  = 0.07273 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 27984.1 h·µg/mL   AUC0-t/D= 42.4001 h·µg/mL/mg
+  AUC0-inf  = 30619.6 h·µg/mL   %Extrap = 8.61%
+  kel       = 0.00282 1/h        Adj.R²  = 0.9849  [interval: 504–1008 h]
+  t1/2      =   245.5 h
+  MRT       =   477.4 h
+  Vz        =     7.6 mL
+  CL        =  0.0216 mL/h
+  Clast     =   7.440 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
+Subject: SUBJ-15     Sex: Male     Age: 40 yr  Weight: 82.0 kg  Dose: 820 mg
+  Cmax      =  59.880 µg/mL     Cmax/D  = 0.07302 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 36454.5 h·µg/mL   AUC0-t/D= 44.4568 h·µg/mL/mg
+  AUC0-inf  = 41080.7 h·µg/mL   %Extrap = 11.26%
+  kel       = 0.00250 1/h        Adj.R²  = 0.9899  [interval: 504–1008 h]
+  t1/2      =   277.6 h
+  MRT       =   518.2 h
+  Vz        =     8.0 mL
+  CL        =  0.0200 mL/h
+  Clast     =  11.550 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
+Subject: SUBJ-16     Sex: Female   Age: 36 yr  Weight: 61.0 kg  Dose: 610 mg
+  Cmax      =  46.220 µg/mL     Cmax/D  = 0.07577 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 26674.7 h·µg/mL   AUC0-t/D= 43.7290 h·µg/mL/mg
+  AUC0-inf  = 29001.8 h·µg/mL   %Extrap = 8.02%
+  kel       = 0.00291 1/h        Adj.R²  = 0.9847  [interval: 504–1008 h]
+  t1/2      =   238.3 h
+  MRT       =   468.3 h
+  Vz        =     7.2 mL
+  CL        =  0.0210 mL/h
+  Clast     =   6.770 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
+Subject: SUBJ-17     Sex: Male     Age: 50 yr  Weight: 76.0 kg  Dose: 760 mg
+  Cmax      =  55.220 µg/mL     Cmax/D  = 0.07266 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 32913.8 h·µg/mL   AUC0-t/D= 43.3076 h·µg/mL/mg
+  AUC0-inf  = 36571.5 h·µg/mL   %Extrap = 10.00%
+  kel       = 0.00264 1/h        Adj.R²  = 0.9881  [interval: 504–1008 h]
+  t1/2      =   262.4 h
+  MRT       =   498.6 h
+  Vz        =     7.9 mL
+  CL        =  0.0208 mL/h
+  Clast     =   9.660 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
+Subject: SUBJ-18     Sex: Female   Age: 42 yr  Weight: 64.0 kg  Dose: 640 mg
+  Cmax      =  47.770 µg/mL     Cmax/D  = 0.07464 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 27758.9 h·µg/mL   AUC0-t/D= 43.3733 h·µg/mL/mg
+  AUC0-inf  = 30276.7 h·µg/mL   %Extrap = 8.32%
+  kel       = 0.00287 1/h        Adj.R²  = 0.9840  [interval: 504–1008 h]
+  t1/2      =   241.7 h
+  MRT       =   473.3 h
+  Vz        =     7.4 mL
+  CL        =  0.0211 mL/h
+  Clast     =   7.220 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
+Subject: SUBJ-19     Sex: Male     Age: 30 yr  Weight: 71.0 kg  Dose: 710 mg
+  Cmax      =  52.330 µg/mL     Cmax/D  = 0.07370 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 30932.1 h·µg/mL   AUC0-t/D= 43.5663 h·µg/mL/mg
+  AUC0-inf  = 34247.2 h·µg/mL   %Extrap = 9.68%
+  kel       = 0.00268 1/h        Adj.R²  = 0.9880  [interval: 504–1008 h]
+  t1/2      =   258.8 h
+  MRT       =   493.4 h
+  Vz        =     7.7 mL
+  CL        =  0.0207 mL/h
+  Clast     =   8.880 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
+Subject: SUBJ-20     Sex: Female   Age: 46 yr  Weight: 67.0 kg  Dose: 670 mg
+  Cmax      =  49.550 µg/mL     Cmax/D  = 0.07396 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 29037.9 h·µg/mL   AUC0-t/D= 43.3402 h·µg/mL/mg
+  AUC0-inf  = 31872.9 h·µg/mL   %Extrap = 8.89%
+  kel       = 0.00278 1/h        Adj.R²  = 0.9822  [interval: 504–1008 h]
+  t1/2      =   249.4 h
+  MRT       =   482.7 h
+  Vz        =     7.6 mL
+  CL        =  0.0210 mL/h
+  Clast     =   7.880 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
+Subject: SUBJ-21     Sex: Male     Age: 47 yr  Weight: 83.0 kg  Dose: 830 mg
+  Cmax      =  60.550 µg/mL     Cmax/D  = 0.07295 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 36951.1 h·µg/mL   AUC0-t/D= 44.5194 h·µg/mL/mg
+  AUC0-inf  = 41772.6 h·µg/mL   %Extrap = 11.54%
+  kel       = 0.00246 1/h        Adj.R²  = 0.9903  [interval: 504–1008 h]
+  t1/2      =   281.3 h
+  MRT       =   522.1 h
+  Vz        =     8.1 mL
+  CL        =  0.0199 mL/h
+  Clast     =  11.880 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
+Subject: SUBJ-22     Sex: Female   Age: 35 yr  Weight: 63.0 kg  Dose: 630 mg
+  Cmax      =  46.770 µg/mL     Cmax/D  = 0.07424 µg/mL/mg
+  tmax      =     168 h
+  AUC0-t    = 26986.5 h·µg/mL   AUC0-t/D= 42.8358 h·µg/mL/mg
+  AUC0-inf  = 29118.4 h·µg/mL   %Extrap = 7.32%
+  kel       = 0.00302 1/h        Adj.R²  = 0.9741  [interval: 504–1008 h]
+  t1/2      =   229.5 h
+  MRT       =   460.3 h
+  Vz        =     7.2 mL
+  CL        =  0.0216 mL/h
+  Clast     =   6.440 µg/mL     tlast   = 1008 h
+----------------------------------------------------------------- 
